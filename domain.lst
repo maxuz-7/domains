@@ -1,3 +1,12 @@
 nftset=/mail.ru/4#inet#fw4#vpn_domains
 nftset=/vk.com/4#inet#fw4#vpn_domains
 nftset=/ya.ru/4#inet#fw4#vpn_domains
+nftset=/ya.com/4#inet#fw4#vpn_domains
+nftset=/yadro.ru/4#inet#fw4#vpn_domains
+nftset=/yalta-tv.ru/4#inet#fw4#vpn_domains
+nftset=/yaltatv.ru/4#inet#fw4#vpn_domains
+nftset=/yandex-taxi.com.ua/4#inet#fw4#vpn_domains
+nftset=/yandex.com/4#inet#fw4#vpn_domains
+nftset=/yandex.net/4#inet#fw4#vpn_domains
+nftset=/yandex.ru/4#inet#fw4#vpn_domains
+nftset=/yandex.ua/4#inet#fw4#vpn_domains
